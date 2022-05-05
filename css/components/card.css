@@ -1,0 +1,12 @@
+.card {
+box-shadow: 2px 2px 15px rgba(25, 25, 25, 0.3);
+padding: 15px;
+margin: 10px;
+text-align: center;
+width: 500px;
+}
+
+.card img {
+  background-size: cover;
+  width: 100%;
+}

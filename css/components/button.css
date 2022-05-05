@@ -1,0 +1,23 @@
+.btn {
+  padding: 15px 25px;
+  transition: 0.3s;
+}
+
+/* .btn:hover {
+  opacity: 1;
+} */
+
+.btn-orange {
+  background-color: #FF8C32;
+  color: white;
+  /* border: 1px solid rgba(25, 25, 25, 0.2); */
+  border-radius: 30px;
+  /* font-weight: medium; */
+}
+
+/* .btn-social {
+  background-color: #6AD58B;
+  color: white;
+  border-radius: 8px;
+  font-weight: bold;
+} */
